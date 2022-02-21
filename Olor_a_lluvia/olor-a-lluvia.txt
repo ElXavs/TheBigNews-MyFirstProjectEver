@@ -1,0 +1,24 @@
+<HTML>
+	<HEAD>
+		<TITLE><center>Olor a lluvia</center></TITLE>
+	</HEAD>
+	<BODY>
+		<H1><center>¿De donde proviene el característico olor a lluvia?</center></h1>
+		<br>
+		<p>Cuando el suelo está seco y empieza a llover el aire se impregna de un aroma agradable y carácteristico llamado "olor a lluvia". Su origen está en un compuesto que se conoce como geosmina que es una molecula producida por unas bacterias inofensivas y muy abundantes en el suelo: las streptomyces. Cuando las gotas de lluvia aterrizan en el suelo son capaces de formar un aerosol que contiene estas bacterias, lo que no sabíamos era como ocurría eso, pero gracias a un estudio realizado hace unas semanas se pudo determinar.</p>
+		<br>
+		<p>Cuando una gota de lluvia golpea el suelo a la velocidad correcta, atrapa burbujas de aire debajo de ella que no sobrepasan un pelo humano. Entonces estas burbujas hacienden, estallando cuando alcanzan la superficie. Esto provoca que salgan disparados pequeñisimos chorros de agua al aire, que suelen contener las bacterias del suelo (chorros que llegan a tu nariz) y te hacen sentir ese olor tan particular.</p>
+		<br>
+		<p>Gracias a este estudio no solo hemos resuelto este curioso misterio, sino que ademas ofrece información muy valiosa sobre como las poblaciones de bacterias se dispersan usando la lluvia.</p>
+		<br>
+		<p>Fuentes:http://www.nature.com/articles/ncomms14668</p>
+	</BODY>
+</HTML>
+
+
+
+
+
+
+Fuentes:
+http://www.nature.com/articles/ncomms14668

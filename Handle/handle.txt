@@ -1,0 +1,20 @@
+<HTML>
+	<HEAD>
+		<TITLE>Handle</TITLE>
+	</HEAD>
+	<BODY>
+		<H1><center>El nuevo robot de Boston Dynamics, Handle.</center></h1>
+		<br>
+		<p>Boston Dynamics, una de las empresas lideres en robótica, presentó su ultimo robót, se llama Handle, y parece que ha venido del fúturo.
+</p>
+		<p>Hasta ahora Boston Dynamics se había resistido a crear robóts con ruedas, ya que parece que su filosofía buscaba reproducir la capacidad de movimientos de personas y animales. Pero hace unas cuantas semanas presentó su ultimo robót, el primero que añade unas ruedas al final de sus piernas robóticas, y el resultado ha sido espectacular.</p>
+		<p>El robot tiene un poco más de seis pies de alto y tiene cuatro miembros de trabajo dos patas delanteras y un par de ruedas traseras que le permiten estar de pie, puede recorrer aproximadamente 24 kilómetros con una sola carga y puede transportar artículos hasta aproximadamente 45 kilogramos (100 libras) en peso.</p>
+		<p>Handle aplica dinámicas similares a las encontradas en sus predecesores cuadrúpedos y bípedos de Boston Dynamics. A diferencia de los que, sin embargo, sólo tiene 10 articulaciones accionadas, lo que lo hace menos complejo, pero también es más robusto, con la misma capacidad de movimiento articulado que los seres humanos.
+</p>
+		<p>Si bien es una impresionante muestra de avance tecnológico, ver todo lo que hemos logrado en el campo de la robótica en la forma de este robot también puede dejarle con inquietante sensación de que los seres humanos han creado algo que es al mismo tiempo fresco y un poco aterrador.</p>
+		<br>
+		<p><center>Fuentes:
+		<a href="https://futurism.com/boston-dynamics-new-robot-is-terrifying-science-fiction-brought-to-life/">New Boston Dynamics Robot is Terrifying Science Fiction Brought to Life</center></a>
+		</p>
+	</BODY>
+</HTML>

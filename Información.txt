@@ -1,0 +1,85 @@
+¿De donde proviene el característico olor a lluvia?
+
+Cuando el suelo está seco y empieza a llover el aire se impregna de un aroma agradable y carácteristico llamado "olor a lluvia". Su origen está en un compuesto que se conoce como geosmina que es una molecula producida por unas bacterias inofensivas y muy abundantes en el suelo: las streptomyces. Cuando las gotas de lluvia aterrizan en el suelo son capaces de formar un aerosol que contiene estas bacterias, lo que no sabíamos era como ocurría eso, pero gracias a un estudio realizado hace unas semanas se pudo determinar.
+
+Cuando una gota de lluvia golpea el suelo a la velocidad correcta, atrapa burbujas de aire debajo de ella que no sobrepasan un pelo humano. Entonces estas burbujas hacienden, estallando cuando alcanzan la superficie. Esto provoca que salgan disparados pequeñisimos chorros de agua al aire, que suelen contener las bacterias del suelo (chorros que llegan a tu nariz) y te hacen sentir ese olor tan particular.
+
+Gracias a este estudio no solo hemos resuelto este curioso misterio, sino que ademas ofrece información muy valiosa sobre como las poblaciones de bacterias se dispersan usando la lluvia.
+
+Fuentes:
+http://www.nature.com/articles/ncomms14668
+
+_______________________________________________________________________________________________
+El nuevo robot de Boston Dynamics, Handle.
+
+Boston Dynamics, una de las empresas lideres en robótica, presentó su ultimo robót, se llama Handle, y parece que ha venido del fúturo.
+
+Hasta ahora Boston Dynamics se había resistido a crear robóts con ruedas, ya que parece que su filosofía buscaba reproducir la capacidad de movimientos de personas y animales. Pero hace unas cuantas semanas presentó su ultimo robót, el primero que añade unas ruedas al final de sus piernas robóticas, y el resultado ha sido espectacular.
+
+El robot tiene un poco más de seis pies de alto y tiene cuatro miembros de trabajo dos patas delanteras y un par de ruedas traseras que le permiten estar de pie, puede recorrer aproximadamente 24 kilómetros con una sola carga y puede transportar artículos hasta aproximadamente 45 kilogramos (100 libras) en peso.
+
+Handle aplica dinámicas similares a las encontradas en sus predecesores cuadrúpedos y bípedos de Boston Dynamics. A diferencia de los que, sin embargo, sólo tiene 10 articulaciones accionadas, lo que lo hace menos complejo, pero también es más robusto, con la misma capacidad de movimiento articulado que los seres humanos.
+
+Si bien es una impresionante muestra de avance tecnológico, ver todo lo que hemos logrado en el campo de la robótica en la forma de este robot también puede dejarle con inquietante sensación de que los seres humanos han creado algo que es al mismo tiempo fresco y un poco aterrador.
+
+Fuente: 
+https://futurism.com/boston-dynamics-new-robot-is-terrifying-science-fiction-brought-to-life/
+_________________________________________________________________________________________________
+
+EL PRIMER COMPUTADOR CUÁNTICO, DE LA MANO DE IBM.
+
+Este 6 de marzo de 2017, en Yorktown Heigts, Nueva York, se anunció la construción del primer ordenador cuántico verdaderamente funcional, el primer ordenador cuántico que cumplira con las promesas que tiene esta tecnología.
+
+Lo que carácteriza a un ordenador cuántico es que, en lugar de utilizar código binario (los "0" y "1" que utiliza una computadora), lo hace con Qubits (Bits Cuánticos), esto significa que puede tener dos estados al mismo timepo, pueden ser 1 y 0 al mismo tiempo. Esto permite que el ordenador sean mucho más potentes que los actuales y hagan calculos muy complejos a la vez, en lugar de hacer uno y después otro.
+
+Mientras que las tecnologías que se ejecutan actualmente en computadoras clásicas, como Watson, pueden ayudar a encontrar patrones e ideas enterradas en grandes cantidades de datos existentes, las computadoras cuánticas ofrecerán soluciones a problemas importantes donde los patrones no pueden ser vistos porque los datos no existen y las posibilidades que necesita explorar para llegar a la respuesta son demasiado enormes para ser procesados por computadoras clásicas.
+
+Hasta ahora estos ordenadores aún no existen y hasta ahora todo ha sido a pequeña escala, sin embargo este ordenador será el primero que cumpla con las promesas de un ordenador cuántico, superando por mucho a todos los superordenadores del mundo.
+
+La fecha de lanzamiento es aún desconocida, pero este simple anuncio es una muy buena noticia.
+
+fuentes: 
+http://www-03.ibm.com/press/uk/en/pressrelease/51765.wss
+
+_______________________________________________________________________________________________
+
+ADN, ¿el futuro del almacenamiento de datos?
+
+Se consiguieron almacenar un sistema operativo y una pelicula en ADN, y lo mejor de todo es que se pudieron recuperar perfectamente.
+
+La idea de guardar datos en el material genético de los seres vivos no es algo nuevo del todo, pero si lo es el almacenar y recuperar sin errores, es decir, funcionamiento en ambas direcciones 100% efectivo. Y esto se consiguió en este estudio, se logró guardar en ADN y recuperar sin errores 6 archivos: un sistema operativo completo de computadora, una película francesa de 1895, una tarjeta de regalo de Amazon, un virus informático, una placa de Pioneer y un estudio del teórico de la información Claude Shannon.
+
+Los datos fueron almacenados en 72.000 cadenas de ADN muy pequeñas, cada una con una longitud de 200 bases. Para hacerlo las células fueron secuenciadas y tranformadas nuevamente a código binario sin un solo error. Lo más increíble de todo, es que esta técnica permite crear un gran numero de copias libres de defectos aplicando la reación en cadena de la polimerasa (enzima encargada de hacer de forma natural, copias del material genético.
+
+Para comprender las aplicaciónes de esta técnica, debes saber que en un solo gramo de ADN se puede guardar hasta 215 Petabytes. Simplemente increíble.
+
+fuentes:
+https://www.researchgate.net/blog/post/dna-could-be-the-future-of-data-storage
+
+__________________________________________________________________________________
+
+El disco duro de almacenamiento de datos más pequeño que existe, en un átomo de Holmio.
+
+En la actualidad se necesitan aproximadamente 100,000 atomos para contener un solo bit de información, pero el día marzo 9 del año en curso se alcanzó lo que se considera el ultimo límite en la reducción del tamaño de los dispositivos de almacenamiento tradicionales, tras conseguir incorporar en un átomo, un bit de memoria.
+
+Para hacerlo convirtieron este atomo en una especie de imán, utilizaron un microscopio de túnel con el que pudieron manipular un átomo del elemento Holmio y colocarlo en una placa de Oxido de Magnesio para tener los polos mágneticos estables. Aplicando una corriente se pudo cambiar la orientación magnetica del átomo entre dos estados, lo que se pudo utilizar para representar los estados de encendido y apagado para un solo bit de datos.
+
+Se trata de un enorme progreso que quizas suponga el principio de la muerte de la Ley de Moore, la cual expresa que aproximadamente casa dos años se duplica el número de transistores en un microprocesador.
+
+fuentes: 
+https://www.sciencedaily.com/releases/2017/03/170309120521.htm
+
+__________________________________________________________________________________________
+
+El regreso del hombre a la luna será en 2018
+
+Parece que por fin, después de más de 40 años conformandonos con enviar astronautas solo a la estación espacial internacional, es decir, a tan solo 400 km de la superficie de la tierra una nueva era espacial está aquí. La empresa de Elon Musk (Space X) ha anunciado que en el año que viene (2018), dos personas partiran hacía la luna usando su cohete Falcon Heavy.
+
+No será un alunizaje, sino simplemente un sobrevuelo. Las dos personas pasaran muy cerca de la luna, pero sin poner un pie en su superficie ni entrar en orbita, pues seguirán una trayectoria de libre retorno. El viaje durará un poco más de una semana y no se sabe aún quienes son los afortunados, pero si se sabe que el boleto les costó lo mismo que lo que cuesta hacer turismo a la estación espacial internacional. Lo que demuestra lo bien que lo está haciendo Space X para abaratar poco a poco los costes para ir al espacio. 
+
+Un dato importante es que debido a la trayectoria que darán, estas dos personas se convertiran en los humanos que más lejos han llegado jamás. Simplemente impresionante.
+
+fuente:
+http://www.spacex.com/news/2017/02/27/spacex-send-privately-crewed-dragon-spacecraft-beyond-moon-next-year
+
+

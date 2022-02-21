@@ -1,0 +1,18 @@
+<HTML>
+	<HEAD>
+		<TITLE>Átomo de Holmio</TITLE>
+	</HEAD>
+	<BODY>
+		<H1><center>El disco duro de almacenamiento de datos más pequeño que existe, en un átomo de Holmio.</center></h1>
+		<br>
+		<p>En la actualidad se necesitan aproximadamente 100,000 atomos para contener un solo bit de información, pero el día marzo 9 del año en curso se alcanzó lo que se considera el ultimo límite en la reducción del tamaño de los dispositivos de almacenamiento tradicionales, tras conseguir incorporar en un átomo, un bit de memoria.
+</p>
+		<p>Para hacerlo convirtieron este atomo en una especie de imán, utilizaron un microscopio de túnel con el que pudieron manipular un átomo del elemento Holmio y colocarlo en una placa de Oxido de Magnesio para tener los polos mágneticos estables. Aplicando una corriente se pudo cambiar la orientación magnetica del átomo entre dos estados, lo que se pudo utilizar para representar los estados de encendido y apagado para un solo bit de datos.</p>
+		<p>Los datos fueron almacenados en 72.000 cadenas de ADN muy pequeñas, cada una con una longitud de 200 bases. Para hacerlo las células fueron secuenciadas y tranformadas nuevamente a código binario sin un solo error. Lo más increíble de todo, es que esta técnica permite crear un gran numero de copias libres de defectos aplicando la reación en cadena de la polimerasa (enzima encargada de hacer de forma natural, copias del material genético.</p>
+		<p>Se trata de un enorme progreso que quizas suponga el principio de la muerte de la Ley de Moore, la cual expresa que aproximadamente casa dos años se duplica el número de transistores en un microprocesador.</p>
+		<br>
+		<p><center>Fuentes:
+		<a href="https://www.sciencedaily.com/releases/2017/03/170309120521.htm">Single atom memory: The world's smallest storage medium</center></a>
+		</p>
+	</BODY>
+</HTML>
